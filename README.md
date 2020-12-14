@@ -18,7 +18,9 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitesphere08&theme=default)
 
 
-
+<centre>
+  <br> Stuck on my laptop 24/7 </br>
+  </centre>
 
 
 
