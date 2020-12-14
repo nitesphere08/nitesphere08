@@ -1,4 +1,5 @@
 <h1> Hola, I'm Rachel :> </h1>
+[![GitHub contributors](https://img.shields.io/github/contributors/nitesphere08/nitesphere08)](https://github.com/nitesphere08/graphs/contributors)
 
 <a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
   <img src="https://pronouns.vercel.app/she/her?gradient=stellar" width="256" height="64" alt="My pronouns are she/her">
