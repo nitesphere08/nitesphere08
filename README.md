@@ -1,8 +1,8 @@
-## Hola, I'm Rachel :>
+<h1> Hola, I'm Rachel :> <\h1>
 <br>
 ✨Nothing is impossible. Impossible is nothing.✨
 <br>
-<\centre>
+
 <a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
   <img src="https://pronouns.vercel.app/she/her?gradient=stellar" width="256" height="64" alt="My pronouns are she/her">
 </a>
