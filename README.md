@@ -1,8 +1,7 @@
 ### Hola, I'm Rachel :>
-</center>
 <br>
-Nothing is impossible. Impossible is nothing.
-
+✨Nothing is impossible. Impossible is nothing.✨
+<br>
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=nitesphere08&count_private=true&show_icons=true&theme=default&include_all_commits=true&icon_color=ffffff)
