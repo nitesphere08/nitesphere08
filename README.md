@@ -1,6 +1,6 @@
 <h1> Hola, I'm Rachel :> 🌿
   </h1>
-<br></br>
+
 
 <a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
   <img src="https://pronouns.vercel.app/she/her?gradient=stellar" width="256" height="64" alt="My pronouns are she/her">
@@ -8,9 +8,9 @@
 <br />
 <h7>
 ✨Nothing is impossible. Impossible is nothing.✨
-  <br />
-</h7>
 
+</h7>
+<br></br>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=nitesphere08&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&icon_color=ffffff)
 <!--dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
