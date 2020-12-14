@@ -1,4 +1,4 @@
-<h1> Hola, I'm Rachel :> <\h1>
+<h1> Hola, I'm Rachel :> </h1>
 <br>
 ✨Nothing is impossible. Impossible is nothing.✨
 <br>
