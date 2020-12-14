@@ -7,11 +7,11 @@
   <img src="https://pronouns.vercel.app/she/her?gradient=stellar" width="256" height="64" alt="My pronouns are she/her">
 </a>
 
-
+<centre>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=nitesphere08&count_private=true&show_icons=true&theme=default&include_all_commits=true&icon_color=ffffff)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitesphere08&theme=default)
-
+</centre>
 
 
 
