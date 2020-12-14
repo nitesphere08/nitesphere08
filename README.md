@@ -1,6 +1,6 @@
 <h1> Hola, I'm Rachel :> 
 <a href="https://avatars1.githubusercontent.com/u/69704760?s=460&u=f0e19a61f487410600b7f15ec4a2bfe4e9947f9b&v=4">
-  <img src="https://avatars1.githubusercontent.com/u/69704760?s=460&u=f0e19a61f487410600b7f15ec4a2bfe4e9947f9b&v=4.png?width="100" height="100"">
+  <img src="https://avatars1.githubusercontent.com/u/69704760?s=460&u=f0e19a61f487410600b7f15ec4a2bfe4e9947f9b&v=4.png?width="100" height="75"">
 </a>
   </h1>
 <br></br>
