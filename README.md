@@ -3,9 +3,9 @@
 <a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
   <img src="https://pronouns.vercel.app/she/her?gradient=stellar" width="256" height="64" alt="My pronouns are she/her">
 </a>
-<br>
+<h2>
 ✨Nothing is impossible. Impossible is nothing.✨
-<br>
+</h2>
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=nitesphere08&count_private=true&show_icons=true&theme=default&include_all_commits=true&icon_color=ffffff)
