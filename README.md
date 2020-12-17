@@ -1,6 +1,6 @@
 <h1> Hola, I'm Rachel :> 🌿
   </h1>
-<img align='right' src="https://media0.giphy.com/media/8zldD29JNeLRK/giphy.gif?cid=ecf05e47v8bhsy9jar0929ksek99g2rhlbv8powvxwh9imys&rid=giphy.gif" width="200">
+
 <a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
   <img src="https://pronouns.vercel.app/she/her?gradient=stellar" width="256" height="64" alt="My pronouns are she/her">
 </a>
@@ -18,7 +18,9 @@
 
 
 <centre>
+  <img align='left' src="https://media0.giphy.com/media/8zldD29JNeLRK/giphy.gif?cid=ecf05e47v8bhsy9jar0929ksek99g2rhlbv8powvxwh9imys&rid=giphy.gif" width="50">
   <br> Stuck on my laptop 24/7 </br>
+  
   </centre>
 
 
