@@ -12,7 +12,7 @@
 </h7>
 <br></br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=nitesphere08&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&icon_color=ffffff)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=nitesphere08&count_public=true&show_icons=true&theme=tokyonight&include_all_commits=true&icon_color=ffffff)
 <!--dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitesphere08&theme=tokyonight)
 
