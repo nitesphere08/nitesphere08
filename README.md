@@ -18,7 +18,7 @@
 
 
 <centre>
-  <img align='left' src="https://media0.giphy.com/media/8zldD29JNeLRK/giphy.gif?cid=ecf05e47v8bhsy9jar0929ksek99g2rhlbv8powvxwh9imys&rid=giphy.gif" width="50">
+  <img align='left' src="https://media0.giphy.com/media/8zldD29JNeLRK/giphy.gif?cid=ecf05e47v8bhsy9jar0929ksek99g2rhlbv8powvxwh9imys&rid=giphy.gif" width="70">
   <br> Stuck on my laptop 24/7 </br>
   
   </centre>
