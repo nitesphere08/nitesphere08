@@ -10,6 +10,7 @@
 ✨Nothing is impossible. Impossible is nothing.✨
 
 </h7>
+<img align='right' src="https://media0.giphy.com/media/8zldD29JNeLRK/giphy.gif?cid=ecf05e47v8bhsy9jar0929ksek99g2rhlbv8powvxwh9imys&rid=giphy.gif" width="100">
 <br></br>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=nitesphere08&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&icon_color=ffffff)
