@@ -15,7 +15,7 @@
 <!--dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitesphere08&theme=tokyonight)
 <br></br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitesphere08&theme=great-gatsby&hide_border=true" alt="nitesphere08" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitesphere08&theme=dark&hide_border=true" alt="nitesphere08" />
 
 <centre>
   <img align='left' src="https://lh4.googleusercontent.com/ivgFJTepCmcnxMr_AeJKGma9qXSVnEEPTVLM7SyOlzsFASqIwYr9KVcJ5h_xg6107urTXcCxKbVrTHBOj1J5rfVJLsoFfWmr4S7dWhl3Uo8E0zVQfThX1CiBXYYusLj7DXi0kJkSjgE" width="75">
