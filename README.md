@@ -15,7 +15,7 @@
 <!--dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitesphere08&theme=tokyonight)
 <br></br>
-[![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nitesphere08&theme=tokyonightfire=orangering=orangecurrStreakLabel=6AA9FA&currStreakNum=6AA9FA)](https://github.com/nitesphere08/github-readme-streak-stats)
+[![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nitesphere08&theme=tokyonight&fire=orangering=orangecurrStreakLabel=6AA9FA&currStreakNum=6AA9FA)](https://github.com/nitesphere08/github-readme-streak-stats)
 
 <centre>
   <img align='left' src="https://lh4.googleusercontent.com/ivgFJTepCmcnxMr_AeJKGma9qXSVnEEPTVLM7SyOlzsFASqIwYr9KVcJ5h_xg6107urTXcCxKbVrTHBOj1J5rfVJLsoFfWmr4S7dWhl3Uo8E0zVQfThX1CiBXYYusLj7DXi0kJkSjgE" width="75">
