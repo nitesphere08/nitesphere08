@@ -13,7 +13,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=nitesphere08&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&icon_color=ffffff)
 <!--dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-[![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nitesphere08&fire=orangering=orangecurrStreakLabel=6AA9FAcurrStreakNum=6AA9FA&theme=tokyonight)](https://github.com/nitesphere08/github-readme-streak-stats&count-private=true)
+[![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nitesphere08&fire=orangering=orangecurrStreakLabel=6AA9FAcurrStreakNum=6AA9FA&theme=tokyonight)](https://github.com/nitesphere08/github-readme-streak-stats&count&private=true)
 <br></br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitesphere08&theme=tokyonight&count-private=true)
 <br> </br>
