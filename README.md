@@ -1,4 +1,4 @@
-<h1> Hola, I'm Rachel :D 🌿
+<h1> It's me 🌿
   </h1>
 <a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
   <img src="https://pronouns.vercel.app/she/her?gradient=stellar" width="256" height="64" alt="My pronouns are she/her">
